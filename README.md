@@ -14,7 +14,7 @@ Before you can start using this app, you should first install the required depen
 
 Clone the repo to your local machine using:
 
-`git clone https://github.com/your-username/todoApp.git`
+`https://github.com/mbukeRepo/the-gym-advanced-state-management.git`
 
 Install the dependencies using:
 
